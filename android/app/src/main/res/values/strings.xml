@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <color name="ic_launcher_background">#ffffff</color>
+</resources>
